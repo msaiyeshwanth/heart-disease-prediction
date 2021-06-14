@@ -1,0 +1,6 @@
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic "hrtdis"
+kafka-console-producer.bat --broker-list localhost:9092 --topic "hrtdis"
+kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic "hrtdis"
+C:\Users\mekal\AppData\Local\Programs\Python\Python38-32\Scripts
