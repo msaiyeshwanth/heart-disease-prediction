@@ -1,6 +1,7 @@
-token      1971566503-uJ7siWrpWzlQQQK1zaULroPwT6je09RyzGNg1hP
-secret     EAEfQHsLwU3DxfM45dzzBYTryNJ2ZokcxmsNmcGZ2PCps
+token     
+secret     
 
 
-consumer key  Fas47a2nQuaMB39MT1l4VCjvt
-consumer secret uP6BWcSu8GV18BLNYC4D1DZDf8rajuMKAZAKHPFbRAFY1PEWJr
+consumer key  
+
+consumer secret 
